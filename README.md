@@ -1,6 +1,7 @@
-# Sonic-Adventure-Dreamcast-Enhanced-Guide
 This is the first guide, about Sonic Adventure modification guide, the main purpose is to modify Sonic Adventure Director's Cut, so that SADX can achieve a better modification effect, for reference only
 
+Sonic-Adventure-Dreamcast-Enhanced-Guide 🔽
+-------------------------------------------------------------------------------------
 Steam Guides
 https://steamcommunity.com/sharedfiles/filedetails/?id=299808681
 
@@ -40,63 +41,92 @@ https://gamebanana.com/mods/470664
 HD Sonic FIN Image
 https://gamebanana.com/mods/33542
 
---------------------------------------
 
 Optional Mods⬇️
-
+-----------------------------------
 Sonic Adventure Meme Maker
 https://gamebanana.com/mods/49984
 
-----------------------------------------------------------------
-About SADX:FE options
-If you want to get the original experience
-Select Japanese
-If you want to listen to the dubbing, select English
 
-Dreamcast Conversion
+About SADX:FE options🔽
+----------------------------------------------------------------
+
+If you want to get the original experience | Japanese
+
+If you want to listen to the dubbing | English
+
+
+Dreamcast Conversion🔽
+-------------------------
+
 If you hate the saving font that appears in the upper right corner of the game
+
 Find Dreamcast Conversion
+
 There are a total of 8 major adjustment options
+
 Find the third major adjustment option-Branding
+
 The last one is Draw 'Now Saving'
+
 Move the mouse to the ⬇️ arrow on the right
+
 Click the left mouse button (click once)
+
 An option will appear
+
 Select False
+
 Move the mouse to the Save button in the lower right corner of the adjustment box to save.
 
-About Extra Subtitles
+About Extra Subtitles🔽
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 Subtitles has three options
+
 If you use Japanese dubbing, choose Always retranslated
+
 If it is English dubbing, select Always match English dub
+
 Display subtitles for Sound Effect voices /SE v -select Ture
+
 select Save
 
-These are the Mods related improvement options.
-Because I saw someone complaining in the comments area that they can't use them.
-I guess it's because all the Mods have been updated, causing conflicts? Maybe
-
-Graphics
-
-Resolution: 4k if you have 4k-screen-2880x2160
-Enable Fullscreen and Force 4:3 Aspect Ratio and Borderless and Scale to Screen 
-Enable -Enable V-sync
-
-Visuals
-Frame rate: 60fps ✅Force Mipping
-Detail level: Hight(best) ✅Force Texeure Filtering
-Fog emulation: Auto ✅UI Sacling
-
-Background fill mode and FMV fill mode: Fill
-
-Options
-Voice language Japenese
-Test Language English
-
-Disable Check on startup and Check mods on startup
-
-Save&Play
 
 
-Since the guide may be outdated, this guide is used to maintain the outdated guide and make relevant supplements
+Graphics🔽
+--------------------------------------------------------------------------------------------------------------
+
+Resolution: 4k if you have 4k-screen-2880x2160◀️
+
+⭕Enable Fullscreen◀️ | ✅Force 4:3 Aspect Ratio◀️
+
+✅Borderless◀️ | ✅Scale to Screen◀️ | ✅Enable -Enable V-sync◀️
+
+Visuals🔽
+---------------------------------------------------------------------------------------------------------
+
+▶️Frame rate: 60fps | ✅Force Mipping◀️
+
+▶️Detail level: Hight(best) | ✅Force Texeure Filtering◀️
+
+▶️Fog emulation: Auto | ✅UI Sacling◀️
+
+▶️Background fill mode: Fill
+▶️FMV fill mode: Fill
+
+Options🔽
+--------------------------------------------------------------------------------------------------------------------------
+
+Voice language Japenese | Test Language English
+
+Updates🔽
+----------------------------------------------------------------------------
+
+Disable▶️ Check on startup
+
+Disable▶️ Check mods on startup
+
+
+Save&Play🎮
+---------------------------------------------------------------
